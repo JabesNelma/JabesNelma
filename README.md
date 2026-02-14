@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHZiOHhqd3hlcG1uNmMxOWdqeTVtc2xzdnR3c2RrMDhmbXI4MTZ5ZiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/R7rSCM0WRTTybxOpMh/giphy.gif"  />
+  <img height="500" src="https://media.giphy.com/media/R7rSCM0WRTTybxOpMh/giphy.gif"  />
 </div>
 
 ###
