@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="https://media.giphy.com/media/R7rSCM0WRTTybxOpMh/giphy.gif"  />
+  <img height="500" src="./200.gif" alt="knight gif" />
 </div>
 
 ###
