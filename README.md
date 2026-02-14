@@ -60,6 +60,7 @@
 ###
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JabesNelma&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=JabesNelma&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
   <img src="https://github-profile-trophy.vercel.app?username=JabesNelma&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JabesNelma&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -76,11 +77,5 @@
 ###
 
 <img src="https://raw.githubusercontent.com/JabesNelma/JabesNelma/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=106&section=header&reversal=false&text=God%20Bless%20You&fontSize=31&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=6&stroke=FFFFFF&strokeWidth=2&animation=fadeIn&desc=My%20friends&descSize=20&descAlign=70&descAlignY=50&textBg=false&color=gradient"  />
-</div>
 
 ###
