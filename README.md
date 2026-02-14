@@ -43,7 +43,7 @@
 ###
 
 <div align="center">
-  <img height="500" src="./200.gif" alt="knight gif" />
+  <img height="700" src="./200.gif" alt="knight gif" />
 </div>
 
 ###
